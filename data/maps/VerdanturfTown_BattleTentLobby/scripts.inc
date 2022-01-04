@@ -229,7 +229,7 @@ VerdanturfTown_BattleTentLobby_Movement_PlayerEnterDoor:
 VerdanturfTown_BattleTentLobby_EventScript_AttractGiver::
 	lock
 	faceplayer
-	goto_if_set FLAG_RECEIVED_TM45, VerdanturfTown_BattleTentLobby_EventScript_ReceivedAttract
+	goto_if_set FLAG_RECEIVED_TM45, VerdanturfTown_BattleTentLobby_EventScript_ReceivedShadowClaw
 	msgbox VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep, MSGBOX_DEFAULT
 	giveitem ITEM_TM45
 	compare VAR_RESULT, 0
@@ -239,7 +239,7 @@ VerdanturfTown_BattleTentLobby_EventScript_AttractGiver::
 	release
 	end
 
-VerdanturfTown_BattleTentLobby_EventScript_ReceivedAttract::
+VerdanturfTown_BattleTentLobby_EventScript_ReceivedShadowClaw::
 	msgbox VerdanturfTown_BattleTentLobby_Text_AttractionMutual, MSGBOX_DEFAULT
 	release
 	end

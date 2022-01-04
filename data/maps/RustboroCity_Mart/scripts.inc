@@ -28,6 +28,9 @@ RustboroCity_Mart_Pokemart_Basic:
 	.2byte ITEM_X_SPEED
 	.2byte ITEM_X_ATTACK
 	.2byte ITEM_X_DEFEND
+	.2byte ITEM_LUCKY_EGG
+	.2byte ITEM_ORAN_BERRY
+	.2byte ITEM_PECHA_BERRY
 	.2byte ITEM_NONE
 	release
 	end

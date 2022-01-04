@@ -49,7 +49,9 @@ struct TrainerMonItemCustomMoves
     u16 species;
     u16 heldItem;
     u16 moves[MAX_MON_MOVES];
+    u8 abilityNums;
 };
+
 
 union TrainerMonPtr
 {

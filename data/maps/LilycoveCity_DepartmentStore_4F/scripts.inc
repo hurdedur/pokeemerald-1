@@ -28,8 +28,24 @@ LilycoveCity_DepartmentStore_4F_Pokemart_AttackTMs:
 	.2byte ITEM_TM38  @ Fire Blast
 	.2byte ITEM_TM25  @ Thunder
 	.2byte ITEM_TM14  @ Blizzard
+	.2byte ITEM_TM52  @ Drill Run
 	.2byte ITEM_TM15  @ Hyper Beam
-	.2byte ITEM_NONE
+	.2byte ITEM_TM51  @ Flash Cannon
+	.2byte ITEM_TM53  @ Earth Power
+	.2byte ITEM_TM54  @ Wild Charge
+	.2byte ITEM_TM56  @ Rock Slide
+	.2byte ITEM_TM64  @ Hyper Voice
+	.2byte ITEM_TM65  @ Hurricane
+	.2byte ITEM_TM66  @ Dark Pulse
+	.2byte ITEM_TM67  @ Icicle Crash
+	.2byte ITEM_TM68  @ Aura Sphere
+	.2byte ITEM_TM70  @ Bulldoze
+	.2byte ITEM_TM72  @ Superpower
+	.2byte ITEM_TM73  @ Signal Beam
+	.2byte ITEM_TM77  @ Dragon Pulse
+	.2byte ITEM_TM78  @ Close Combat
+	.2byte ITEM_TM80  @ Gunk Shot
+	.2byte ITEM_NONE  
 	release
 	end
 
@@ -49,6 +65,10 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 	.2byte ITEM_TM20  @ Safeguard
 	.2byte ITEM_TM33  @ Reflect
 	.2byte ITEM_TM16  @ Light Screen
+	.2byte ITEM_TM69  @ Substitute
+	.2byte ITEM_TM71  @ Swords Dance
+	.2byte ITEM_TM74  @ Will-O-Wisp
+	.2byte ITEM_TM75  @ Nasty Plot
 	.2byte ITEM_NONE
 	release
 	end

@@ -83,7 +83,7 @@ const struct MonCoords gMonFrontPicCoords[] =
     [SPECIES_PIDGEY] =
     {
         .size = 0x65,
-        .y_offset = 13,
+        .y_offset = 11,
     },
     [SPECIES_PIDGEOTTO] =
     {

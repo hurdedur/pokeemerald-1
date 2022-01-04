@@ -25,6 +25,9 @@ FallarborTown_Mart_Pokemart:
 	.2byte ITEM_X_DEFEND
 	.2byte ITEM_DIRE_HIT
 	.2byte ITEM_GUARD_SPEC
+	.2byte ITEM_METAL_COAT
+	.2byte ITEM_DRAGON_SCALE
+	.2byte ITEM_KINGS_ROCK
 	.2byte ITEM_NONE
 	release
 	end

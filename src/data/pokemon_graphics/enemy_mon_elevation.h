@@ -4,7 +4,6 @@ const u8 gEnemyMonElevation[NUM_SPECIES] =
 {
     [SPECIES_BUTTERFREE] = 8,
     [SPECIES_BEEDRILL] = 8,
-    [SPECIES_PIDGEY] = 16,
     [SPECIES_PIDGEOT] = 4,
     [SPECIES_FEAROW] = 6,
     [SPECIES_ZUBAT] = 8,
@@ -19,6 +18,8 @@ const u8 gEnemyMonElevation[NUM_SPECIES] =
     [SPECIES_ELECTRODE] = 12,
     [SPECIES_KOFFING] = 8,
     [SPECIES_WEEZING] = 6,
+    [SPECIES_GYARADOS] = 10,
+    [SPECIES_LAPRAS] = 8,
     [SPECIES_AERODACTYL] = 7,
     [SPECIES_ARTICUNO] = 6,
     [SPECIES_ZAPDOS] = 8,

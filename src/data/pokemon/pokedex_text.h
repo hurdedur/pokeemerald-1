@@ -1315,8 +1315,8 @@ const u8 gSlugmaPokedexText[] = _(
 const u8 gMagcargoPokedexText[] = _(
     "The shell on its back is made of hardened\n"
     "magma. Tens of thousands of years spent\n"
-    "living in volcanic craters have turned\n"
-    "MAGCARGO's bodies into magma.");
+    "living near underwater volcanoes have turned\n"
+    "it into a mixture of water and magma.");
 
 const u8 gSwinubPokedexText[] = _(
     "It roots for food by rubbing its snout\n"
